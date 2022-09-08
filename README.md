@@ -1,2 +1,3 @@
 # Supervised-ML-project
-Predict...
+Predict the scores of students based on their study hours
+
